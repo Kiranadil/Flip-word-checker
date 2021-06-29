@@ -1,6 +1,6 @@
 ## Flip word Checker
 
-- A web app to check a palindrome words.
+- A web app to check whether the word is a palindrome or not.
 
 
 ## Technologies used
